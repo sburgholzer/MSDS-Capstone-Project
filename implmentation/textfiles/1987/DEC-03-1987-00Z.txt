@@ -1,0 +1,28 @@
+VAR,VAL,UNITS
+2mTemp,280.665,Kelvin
+2mDpt,272.479,Kelvin
+sfcCAPE,9.82995,J/kg
+sfcCIN,-5.54102,J/kg
+sfcPotentialTmp,283.946,Kelvin
+sfcPressure,93340.1,Pa
+PWAT,9.31644,kg/m^2
+2mRH,61.8479,%
+srh,164.589,m^2/s^2
+lifted index (500-100mb),283.943,Kelvin
+lifted index 180-0 mb above gnd Best (4-layer),6.46002,Kelvin
+10m wind speed,3.92326,m/s
+250mb Geopotenial height,10430,gpm
+250mb Temperature,220.847,Kelvin
+250mb wind speed,38.1539,m/s
+500mb Geopotenial height,5635.14,gpm
+500mb Temperature,255.009,Kelvin
+500mb wind speed,21.0786,m/s
+700mb Geopotenial height,3029.15,gpm
+700mb Temperature,272.658,Kelvin
+700mb wind speed,14.1829,m/s
+850mb Geopotenial height,1452.38,gpm
+850mb Temperature,281.079,Kelvin
+850mb wind speed,9.93001,m/s
+925mb Geopotenial height,752.217,gpm
+925mb Temperature,283.139,Kelvin
+925mb wind speed,7.55242,m/s
